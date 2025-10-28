@@ -2,7 +2,7 @@ https://ustatisticaldatapulse.github.io/diplomado-gestion-datos/
 
 
 
-git config --global user.name "jfcruz.ibp"
+git config --global user.name "jfcruzibp"
 git config --global user.email "jfcruz.ibp@gmail.com"
 
 

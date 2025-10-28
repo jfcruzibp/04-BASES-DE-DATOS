@@ -4,7 +4,7 @@
 
 Nombre: *John fernando cruz*
 
-* Este proyecto exploramos ktodas las clases de bases de datos en la Santoto
+* Este proyecto exploramos todas las clases de bases de datos en la Santoto
 
 
 
