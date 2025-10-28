@@ -5,8 +5,22 @@ https://ustatisticaldatapulse.github.io/diplomado-gestion-datos/
 git config --global user.name "jfcruzibp"
 git config --global user.email "jfcruz.ibp@gmail.com"
 
+https://ustatisticaldatapulse.github.io/diplomado-gestion-datos/Clase_SQL.html#modulo1
 
 
+git config --global credential.helper store
+git pull
+
+
+
+🧩 Solución: permitir la unión de historiales no relacionados
+
+Ejecuta este comando en tu PowerShell:
+
+git pull origin main --allow-unrelated-histories
+
+
+https://colab.research.google.com/drive/1Q_43CoML-c_058XlLs9ePL31Ahy4CFRB?usp=sharing
 
 
 
