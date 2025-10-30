@@ -1,10 +1,7 @@
-# Proyecto de base de datos
+## Carpeta Datos
 
--------------------------------
+Esta carpeta contiene los conjuntos de datos utilizados en este proyecto. A continuación se describen los archivos presentes:
 
-Nombre: *John fernando cruz*
-
-* Este proyecto exploramos todas las clases de bases de datos en la Santoto
-
+- `empresa.db`: Base de datos SQLite que almacena la información relacionada con la empresa, incluyendo empleados, departamentos y proyectos.
 
 
