@@ -1,4 +1,4 @@
-# Proyecto de base de datos empresas
+# Proyecto de base de datos
 
 -------------------------------
 
