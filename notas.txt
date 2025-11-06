@@ -14,14 +14,19 @@ https://ustatisticaldatapulse.github.io/diplomado-gestion-datos/Clase_SQL.html#m
 https://colab.research.google.com/drive/1Q_43CoML-c_058XlLs9ePL31Ahy4CFRB?usp=sharing
 
 
-Crear entornos vistuales
+Autorizar en powershell para crear ambientes vacios, crear un entorno virtual
+Set-ExecutionPolicy unrestricted
+Get-ExecutionPolicy
 
+Crear entornos vistuales
 python -m venv .env 
- 
 .\.env\Scripts\activate
- 
 
 si estoy en powershell 
 .\.env\Scripts\Activate.ps1
  
  
+Instalar librerias en el entorno virtual
+pip install ipykernel pandas
+
+se selecciona el kernet correspondiente 
